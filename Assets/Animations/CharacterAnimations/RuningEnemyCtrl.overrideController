@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RuningEnemyCtrl
+  m_Controller: {fileID: 9100000, guid: 285eebc70377cf34b837397b2befa8f5, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a21b76d6eafda5f4d95b2124f0936bd9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0bcfe9d983a667d448f7356f10000848, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 35bb8e1f1ffa8ce49ba74b2f7e002885, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 35bb8e1f1ffa8ce49ba74b2f7e002885, type: 2}
