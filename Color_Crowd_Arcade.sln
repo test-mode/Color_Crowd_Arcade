@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheraBytes.BetterUi.Runtime", "TheraBytes.BetterUi.Runtime.csproj", "{26AE5652-6231-FC6C-EC6E-DFB5BF2C86F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheraBytes.BetterUi.Editor", "TheraBytes.BetterUi.Editor.csproj", "{9EB397E0-2EB1-EDCB-F3F6-AE42B7142DAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{DE164E98-63D0-621D-D0F1-8668F5876537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{179D7116-7008-0C39-F42E-4C33ADF98642}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToonyColorsPro.Editor", "ToonyColorsPro.Editor.csproj", "{E30F2F05-74E4-C564-ADB1-298F20C21917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToonyColorsPro.Runtime", "ToonyColorsPro.Runtime.csproj", "{CADC5D15-0187-77E8-2ED9-AC1BBAE4C440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26AE5652-6231-FC6C-EC6E-DFB5BF2C86F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26AE5652-6231-FC6C-EC6E-DFB5BF2C86F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26AE5652-6231-FC6C-EC6E-DFB5BF2C86F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26AE5652-6231-FC6C-EC6E-DFB5BF2C86F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EB397E0-2EB1-EDCB-F3F6-AE42B7142DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB397E0-2EB1-EDCB-F3F6-AE42B7142DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB397E0-2EB1-EDCB-F3F6-AE42B7142DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB397E0-2EB1-EDCB-F3F6-AE42B7142DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE164E98-63D0-621D-D0F1-8668F5876537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE164E98-63D0-621D-D0F1-8668F5876537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE164E98-63D0-621D-D0F1-8668F5876537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE164E98-63D0-621D-D0F1-8668F5876537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{179D7116-7008-0C39-F42E-4C33ADF98642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179D7116-7008-0C39-F42E-4C33ADF98642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179D7116-7008-0C39-F42E-4C33ADF98642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179D7116-7008-0C39-F42E-4C33ADF98642}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E30F2F05-74E4-C564-ADB1-298F20C21917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30F2F05-74E4-C564-ADB1-298F20C21917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30F2F05-74E4-C564-ADB1-298F20C21917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30F2F05-74E4-C564-ADB1-298F20C21917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CADC5D15-0187-77E8-2ED9-AC1BBAE4C440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADC5D15-0187-77E8-2ED9-AC1BBAE4C440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADC5D15-0187-77E8-2ED9-AC1BBAE4C440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADC5D15-0187-77E8-2ED9-AC1BBAE4C440}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
